@@ -1,3 +1,7 @@
+# Instructions
+Pip Install requirements.txt
+
+
 # Image-Classification
 
 KPMG released a benchmark report in mid-2020, naming Singapore as the top country in the world in terms of development of self-driving cars, as reflected in the government's policy-making and legislation efforts to encourage use of autonomous vehicles.
